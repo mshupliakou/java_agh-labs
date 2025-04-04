@@ -22,6 +22,7 @@ The repository is organized by lessons or topics covered in the course:
 
 1. **Introduction to Java. Classes. Classes inheritance. Overriding ToString()** 
 2. **Work with a lot of files. Creating a music store. Interfaces. Abstract classes** 
+3. **Exceptions. Classes. Singleton. Interfaces. Working with files** 
 
 
 ## 🚀 How to Run the Code
