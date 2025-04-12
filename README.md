@@ -24,6 +24,7 @@ The repository is organized by lessons or topics covered in the course:
 2. **Work with a lot of files. Creating a music store. Interfaces. Abstract classes** 
 3. **Exceptions. Classes. Singleton. Interfaces. Working with files** 
 4. **Class Object. Class String. Reflection. Clone** 
+5. **class GenericClass<T>** 
 
 
 ## 🚀 How to Run the Code
